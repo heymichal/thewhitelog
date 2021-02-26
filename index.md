@@ -9,10 +9,10 @@ We're Silvia and Michal and this is where **we create notes on living a meaningf
 While we're putting this website together, you can check out our projects:
 
 ## Projects
-[JournalSmarter](https://journalsmarter.com) – Build consistency with the life practices that matter to you.
-[Youtube](https://www.youtube.com/channel/UCFkEEtX7yPtYD0Om0GPwL7w) – Where we share on various topics.
-[Microsolidarity in Pico](https://pico.microsolidarity.cc) – Documentation of community weaving experiments in Pico Island.
-[The Nomz](https://nomz.michalkorzonek.com) – Delicious vegan desserts
+[JournalSmarter](https://journalsmarter.com) – Build consistency with the life practices that matter to you.<br>
+[Youtube](https://www.youtube.com/channel/UCFkEEtX7yPtYD0Om0GPwL7w) – Where we share on various topics.<br>
+[Microsolidarity in Pico](https://pico.microsolidarity.cc) – Documentation of community weaving experiments in Pico Island.<br>
+[The Nomz](https://nomz.michalkorzonek.com) – Delicious vegan desserts<br>
 
 ## Support
 
