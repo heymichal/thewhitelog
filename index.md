@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+## Welcome to The White Log
 
-You can use the [editor on GitHub](https://github.com/heymichal/thewhitelog/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+(v0.1)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Hey there!
 
-### Markdown
+We're Silvia and Michal and this is where **we create notes on living a meaningful life**.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+While we're putting this website together, you can check out our projects:
 
-```markdown
-Syntax highlighted code block
+## Projects
+[JournalSmarter](https://journalsmarter.com) – Build consistency with the life practices that matter to you.
+[Youtube](https://www.youtube.com/channel/UCFkEEtX7yPtYD0Om0GPwL7w) – Where we share on various topics.
+[Microsolidarity in Pico](https://pico.microsolidarity.cc) – Documentation of community weaving experiments in Pico Island.
+[The Nomz](https://nomz.michalkorzonek.com) – Delicious vegan desserts
 
-# Header 1
-## Header 2
-### Header 3
+## Support
 
-- Bulleted
-- List
+You can support our work on [Patreon](https://patreon.com/michalandsilvia) or by enrolling in one of our [programs](https://journalsmarter.com/products).
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/heymichal/thewhitelog/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Love and Light ☀️
+Michal and Silvia
