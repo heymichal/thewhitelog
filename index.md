@@ -18,5 +18,5 @@ While we're putting this website together, you can check out our projects:
 
 You can support our work on [Patreon](https://patreon.com/michalandsilvia) or by enrolling in one of our [programs](https://journalsmarter.com/products).
 
-Love and Light ☀️
+Love and Light ☀️<br>
 Michal and Silvia
