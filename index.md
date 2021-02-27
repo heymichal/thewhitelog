@@ -1,8 +1,6 @@
 ## Welcome to The White Log
-
-<div class="note">       
-    **NOTE**: This website is currently in beta. In the meantime you can see the [gitbook version](https://beta.thewhitelog)
-</div>
+   
+**NOTE**: This website is currently in development. In the meantime you can see the [gitbook version](https://beta.thewhitelog) <br>
 
 (v0.1)
 
