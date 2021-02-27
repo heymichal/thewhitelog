@@ -4,7 +4,7 @@ Hey there!
 
 We're Silvia and Michal and this is where **we create notes on living a meaningful life**.
    
-**NOTE**: This website is currently in development. In the meantime you can see the [gitbook version](https://beta.thewhitelog) or check out our projects:
+**NOTE**: This website is currently in development. In the meantime you can see the [gitbook version](https://beta.thewhitelog.com) or check out our projects:
 
 ## Projects
 [JournalSmarter](https://journalsmarter.com) – Where we write about building consistency with the life practices that matter.<br>
@@ -20,3 +20,5 @@ You can support our work on [Patreon](https://patreon.com/michalandsilvia) or by
 
 Love and Light ☀️<br>
 [Michal](https://twitter.com/michalkorzonek) and [Silvia](https://twitter.com/this_is_silvia)
+
+[img](twl-logo.png)
