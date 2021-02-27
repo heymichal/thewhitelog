@@ -1,5 +1,9 @@
 ## Welcome to The White Log
 
+<div class="note">       
+    **NOTE**: This website is currently in beta. In the meantime you can see the [gitbook version](https://beta.thewhitelog)
+</div>
+
 (v0.1)
 
 Hey there!
