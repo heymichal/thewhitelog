@@ -20,5 +20,3 @@ You can support our work on [Patreon](https://patreon.com/michalandsilvia) or by
 
 Love and Light ☀️<br>
 [Michal](https://twitter.com/michalkorzonek) and [Silvia](https://twitter.com/this_is_silvia)
-
-![img](twl-logo.png)
